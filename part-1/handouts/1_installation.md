@@ -53,11 +53,10 @@ Gitは、ソースコードの変更履歴を記録するためのツールで�
 ダウンロードが完了したらそのファイルを開いて実行し、画面の指示に従ってインストールを進めてください。
 
 #### インストール時の注意事項
-
-- `Choosing the default editor used by Git`画面では、`Use Visual Studio Code as Git’s default editor`を選択してください。
-- `Adjusting the name of the initial branch in new repositories`画面では、`Override the default branch name for new repositories`を選択してださい。入力ボックスはmainのままにしてください。
-- `Configuring the line ending conversions`画面では、一番下の`Checkout as-is, commit as-is`を選択してください。
-  それ以外の画面はそのまま`Next`で進んで問題ありません。
+- 4こ目の`Choosing the default editor used by Git`画面では、`Use Visual Studio Code as Git’s default editor`を選択してください。
+- 5こ目の`Adjusting the name of the initial branch in new repositories`画面では、`Override the default branch name for new repositories`を選択してださい。入力ボックスはmainのままにしてください。
+- 10こ目の`Configuring the line ending conversions`画面では、一番下の`Checkout as-is, commit as-is`を選択してください。
+  **それ以外の画面はそのまま`Next`で進んで問題ありません。**
 - `Completing the Git Setup Wizard`と表示されたらインストール終了です。`Finish`を押してください。
 
 ### macOSの人
